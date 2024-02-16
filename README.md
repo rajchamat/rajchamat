@@ -1,7 +1,13 @@
 
 ## Hey there, Rajeeep here!
 
+### 👨🏻‍💻 &nbsp;About Me 
+ 
 
+- 🤔 &nbsp; CCNP certified Network Engineer. 
+- ⚡️ &nbsp; Fun fact: I like playing FootBall, Cricket. I am also a Passenger, Trekker, and Photographer.
+
+  
 ### 🛠 &nbsp;Languages and Tools
 
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -14,8 +20,8 @@
 ### 🤝🏻 &nbsp;Connect with Me 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/parmarrajdeep/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-shubhamsarda-blue"></a>
-<a href="https://www.instagram.com/rajdeepp12//"><img alt="Instagram" src="https://img.shields.io/badge/instagram-shubham.ul-red"></a>
-<a href="https://twitter.com/rajchamat"><img alt="Twitter" src="https://img.shields.io/badge/twitter-shubham__ul-blue"></a>
+<a href="https://www.linkedin.com/in/parmarrajdeep/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-parmarrajdeep-blue"></a>
+<a href="https://www.instagram.com/rajdeepp12//"><img alt="Instagram" src="https://img.shields.io/badge/instagram-rajdeepp12-red"></a>
+<a href="https://twitter.com/rajchamat"><img alt="Twitter" src="https://img.shields.io/badge/twitter-rajchamat-blue"></a>
 </p>
 
